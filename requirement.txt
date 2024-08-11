@@ -1,0 +1,131 @@
+# packages in environment at /Users/jizezhang/anaconda3/envs/FA_SensorFusion:
+#
+# Name                    Version                   Build  Channel
+albumentations            1.3.0                    pypi_0    pypi
+appnope                   0.1.3                    pypi_0    pypi
+beautifulsoup4            4.12.2                   pypi_0    pypi
+bleach                    6.0.0                    pypi_0    pypi
+c-ares                    1.19.0               h6c40b1e_0  
+ca-certificates           2023.01.10           hecd8cb5_0  
+cachetools                5.3.0                    pypi_0    pypi
+certifi                   2022.12.7        py37hecd8cb5_0  
+charset-normalizer        2.0.4              pyhd3eb1b0_0  
+cloudpickle               2.0.0              pyhd3eb1b0_0  
+cycler                    0.11.0             pyhd3eb1b0_0  
+dask-core                 2021.10.0          pyhd3eb1b0_0  
+debugpy                   1.6.7                    pypi_0    pypi
+decorator                 5.1.1                    pypi_0    pypi
+defusedxml                0.7.1                    pypi_0    pypi
+descartes                 1.1.0                    pypi_0    pypi
+entrypoints               0.4                      pypi_0    pypi
+expat                     2.4.9                he9d5cce_0  
+fastjsonschema            2.16.3                   pypi_0    pypi
+ffmpeg                    4.0                  h01ea3c9_0  
+fire                      0.5.0                    pypi_0    pypi
+freetype                  2.12.1               hd8bbffd_0  
+fsspec                    2022.11.0        py37hecd8cb5_0  
+future                    0.18.3           py37hecd8cb5_0  
+geos                      3.8.0                hb1e8313_0  
+gettext                   0.21.0               he85b6c0_1  
+google-auth               2.17.3                   pypi_0    pypi
+google-auth-oauthlib      0.4.6                    pypi_0    pypi
+graphite2                 1.3.14               he9d5cce_1  
+imagecodecs               2021.8.26        py37h8a96914_2  
+imagecorruptions          1.1.2                    pypi_0    pypi
+imageio                   2.19.3           py37hecd8cb5_0  
+importlib-metadata        6.3.0                    pypi_0    pypi
+importlib-resources       5.12.0                   pypi_0    pypi
+intel-openmp              2021.4.0          hecd8cb5_3538  
+ipykernel                 6.16.2                   pypi_0    pypi
+ipython-genutils          0.2.0                    pypi_0    pypi
+ipywidgets                8.0.6                    pypi_0    pypi
+jasper                    2.0.14               h0129ec2_2  
+jedi                      0.18.2                   pypi_0    pypi
+jpeg                      9e                   h6c40b1e_1  
+jsonschema                4.17.3                   pypi_0    pypi
+jupyter                   1.0.0                    pypi_0    pypi
+jupyter-client            7.4.9                    pypi_0    pypi
+jupyter-console           6.6.3                    pypi_0    pypi
+jupyter-core              4.12.0                   pypi_0    pypi
+jupyter-server            1.23.6                   pypi_0    pypi
+jupyterlab-pygments       0.2.2                    pypi_0    pypi
+jupyterlab-widgets        3.0.7                    pypi_0    pypi
+kiwisolver                1.4.4            py37hcec6c5f_0  
+lame                      3.100                h1de35cc_0  
+lerc                      3.0                  he9d5cce_0  
+libaec                    1.0.4                hb1e8313_1  
+libbrotlidec              1.0.9                hca72f7f_7  
+libbrotlienc              1.0.9                hca72f7f_7  
+libdeflate                1.17                 hb664fd8_0  
+libedit                   3.1.20221030         h6c40b1e_0  
+libev                     4.33                 h9ed2024_1  
+libopencv                 3.4.2                h7c891bd_1  
+libwebp                   1.2.4                hf6ce154_1  
+libwebp-base              1.2.4                h6c40b1e_1  
+llvm-openmp               14.0.6               h0dcd299_0  
+locket                    1.0.0            py37hecd8cb5_0  
+markupsafe                2.1.2                    pypi_0    pypi
+matplotlib-base           3.5.3            py37hfb0c5b7_0  
+matplotlib-inline         0.1.6                    pypi_0    pypi
+mistune                   2.0.5                    pypi_0    pypi
+mkl-service               2.4.0            py37h9ed2024_0  
+munkres                   1.1.4                      py_0  
+nbclient                  0.7.3                    pypi_0    pypi
+nbconvert                 7.3.1                    pypi_0    pypi
+ncurses                   6.4                  hcec6c5f_0  
+nest-asyncio              1.5.6                    pypi_0    pypi
+nettle                    3.7.3                h230ac6f_1  
+networkx                  2.6.3              pyhd3eb1b0_0  
+ninja-base                1.10.2               haf03e11_5  
+notebook                  6.5.4                    pypi_0    pypi
+notebook-shim             0.2.2                    pypi_0    pypi
+numpy-base                1.21.5           py37h3b1a694_3  
+nuscenes-devkit           1.1.10                   pypi_0    pypi
+opencv                    3.4.2            py37h6fd60c2_1  
+opencv-python             4.7.0.72                 pypi_0    pypi
+opencv-python-headless    4.7.0.72                 pypi_0    pypi
+openh264                  2.1.1                h8346a28_0  
+openjpeg                  2.4.0                h66ea3da_0  
+openssl                   1.1.1t               hca72f7f_0  
+pandocfilters             1.5.0                    pypi_0    pypi
+pcre                      8.45                 h23ab428_0  
+pexpect                   4.8.0                    pypi_0    pypi
+pickleshare               0.7.5                    pypi_0    pypi
+pkgutil-resolve-name      1.3.10                   pypi_0    pypi
+prometheus-client         0.16.0                   pypi_0    pypi
+ptyprocess                0.7.0                    pypi_0    pypi
+py-opencv                 3.4.2            py37h7c891bd_1  
+pyasn1-modules            0.2.8                    pypi_0    pypi
+pycparser                 2.21               pyhd3eb1b0_0  
+pygments                  2.15.0                   pypi_0    pypi
+pyquaternion              0.9.9                    pypi_0    pypi
+pyrsistent                0.19.3                   pypi_0    pypi
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+pywavelets                1.3.0            py37hca72f7f_0  
+qtconsole                 5.4.2                    pypi_0    pypi
+readline                  8.2                  hca72f7f_0  
+requests                  2.28.2                   pypi_0    pypi
+requests-oauthlib         1.3.1                    pypi_0    pypi
+scikit-image              0.19.3           py37hcec6c5f_1  
+scikit-learn              1.0.2                    pypi_0    pypi
+send2trash                1.8.0                    pypi_0    pypi
+setuptools                65.6.3           py37hecd8cb5_0  
+shapely                   1.8.5                    pypi_0    pypi
+soupsieve                 2.4                      pypi_0    pypi
+sqlite                    3.41.1               h6c40b1e_0  
+tensorboard               2.11.2                   pypi_0    pypi
+tensorboard-data-server   0.6.1                    pypi_0    pypi
+tensorboard-plugin-wit    1.8.1                    pypi_0    pypi
+tensorboardx              2.6                      pypi_0    pypi
+termcolor                 2.2.0                    pypi_0    pypi
+terminado                 0.17.1                   pypi_0    pypi
+threadpoolctl             3.1.0                    pypi_0    pypi
+tifffile                  2021.7.2           pyhd3eb1b0_2  
+traitlets                 5.9.0                    pypi_0    pypi
+typing-extensions         4.3.0            py37hecd8cb5_0  
+typing_extensions         4.3.0            py37hecd8cb5_0  
+webencodings              0.5.1                    pypi_0    pypi
+websocket-client          1.5.1                    pypi_0    pypi
+werkzeug                  2.2.3                    pypi_0    pypi
+wheel                     0.38.4           py37hecd8cb5_0  
+widgetsnbextension        4.0.7                    pypi_0    pypi
