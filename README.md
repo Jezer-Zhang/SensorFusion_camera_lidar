@@ -3,4 +3,3 @@ This study aimed to investigate the fusion approaches based on deep neural netwo
 
 # Results
 The results indicate that sensor fusion via deep neural network can greatly improve the quality of the reconstructed images and help restore the missing objects. However, the models' performance is notably limited when confronted with new types of damages. To tackle this problem, the new fusion involving mathematical functions was proposed and achieved good performance.
-![Uploading WX20240811-180429@2x.png…]()
